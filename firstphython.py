@@ -1,2 +1,2 @@
 # Display the output
-pring("new Pythong File")
+print("new Pythong File")
